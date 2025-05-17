@@ -49,7 +49,7 @@ A simple Diary Management System built using Java Swing and MySQL. Allows users 
 
 ---
 
-## 🧠 Known Issues / Limitations
+##  Known Issues / Limitations
 - No encryption of diary data
 - Single user login
 - No auto-backup feature
